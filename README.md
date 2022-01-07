@@ -1,5 +1,5 @@
 # Basic-File-System
-Includes C++ file, make-file executable and makefile
+Includes C++ file, make-disk executable and makefile
 
 Program takes a 128KB file partitioned using an executable file and reads in another file with the following prefixes. C for create, D for delete, L for list,
 R for read, and W for write.
